@@ -1,5 +1,6 @@
 <!-- Banner -->
-![About Me](https://www.linkedin.com/in/delower-hossain-169759241/overlay/background-image/)
+<img src="https://github.com/DelowerHossainRU/DelowerHossainRU/blob/main/cover photo.png?raw=true" alt="banner" />
+
 
 <h1 align="center">Hi there 👋, I am Delower Hossain</h1>
 <p align="center">Front End Developer</p>
