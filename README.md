@@ -2,15 +2,9 @@
 <img src="https://your-image-link.com/banner.png" alt="banner" style="width:100%;" />
 
 <h1 align="center">Hi there 👋, I am Delower Hossain</h1>
-<p align="center">Junior Front End Developer</p>
+<p align="center">Front End Developer</p>
 
----
 
-### 🧠 About Me:
-- 🔭 I’m currently learning **Next.js**
-- 🤝 I’m looking for help with **React.js**
-
----
 
 ### 🛠️ Tech Stack:
 
