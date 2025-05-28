@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://your-image-link.com/banner.png" alt="banner" style="width:100%;" />
+![About Me](https://www.linkedin.com/in/delower-hossain-169759241/overlay/background-image/)
 
 <h1 align="center">Hi there 👋, I am Delower Hossain</h1>
 <p align="center">Front End Developer</p>
