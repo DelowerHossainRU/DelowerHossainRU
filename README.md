@@ -28,7 +28,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DelowerHossainRU&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=DelowerHossaainRU&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=DelowerHossainRU&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DelowerHossainRU&layout=compact&theme=tokyonight" />
 </p>
